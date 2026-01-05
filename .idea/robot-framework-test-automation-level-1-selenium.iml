@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Results" />
+      <excludeFolder url="file://$MODULE_DIR$/repos/amazon/Results" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.14 (robot-framework-test-automation-level-1-selenium)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

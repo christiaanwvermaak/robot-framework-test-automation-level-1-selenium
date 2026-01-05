@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f29f31c4-e12e-4a20-afd5-ca773d188704" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/robot-framework-test-automation-level-1-selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Crm.robot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Test.robot" afterDir="false" />
-    </list>
+    <list default="true" id="f29f31c4-e12e-4a20-afd5-ca773d188704" name="Changes" comment="Write tests steps Part 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,12 +69,25 @@
       <workItem from="1767544035873" duration="23000" />
       <workItem from="1767544075555" duration="194000" />
       <workItem from="1767544288052" duration="767000" />
-      <workItem from="1767545282959" duration="13876000" />
+      <workItem from="1767545282959" duration="14379000" />
     </task>
+    <task id="LOCAL-00001" summary="Write tests steps Part 3">
+      <option name="closed" value="true" />
+      <created>1767591627552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767591627552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Write tests steps Part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Write tests steps Part 3" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
